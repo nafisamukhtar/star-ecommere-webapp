@@ -13,6 +13,9 @@ import Item12 from '../../images/item12.jpg'
 import Item13 from '../../images/item13.jpg'
 import Item14 from '../../images/item14.jpg'
 import Item15 from '../../images/item15.jpg'
+import Item16 from '../../images/item16.jpg'
+import Item17 from '../../images/item17.jpg'
+import Item18 from '../../images/item18.jpg'
 
 
 
@@ -35,7 +38,11 @@ const initState = {
         {id:12, desc: "Love yourself more", price:269,img:Item12},
         {id:13, desc: "Fresh From Farm", price:99,img:Item13},
         {id:14, desc: "Committed to providing you the best", price:49,img:Item14},
-        {id:15, desc: "It’s your time", price:379,img:Item15}
+        {id:15, desc: "It’s your time", price:379,img:Item15},
+        {id:16, desc: "Pure Bliss Headsets", price:467,img:Item16},
+        {id:17, desc: "Small and perfect Earphones ", price:179,img:Item17},
+        {id:18, desc: "The best Bluetooth Speakers", price:519,img:Item18},
+
     
     
     
